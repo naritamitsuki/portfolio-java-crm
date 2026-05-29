@@ -63,7 +63,7 @@ portfolio-java-crm/
 
 ⚙️ 起動方法
 
-git clone https://github.com/tnohara48/portfolio-java-crm.git
+git clone https://github.com/techpage383/portfolio-java-crm
 cd portfolio-java-crm
 docker-compose up --build
 
